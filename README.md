@@ -162,7 +162,7 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hexed-AAL1X&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hexed-AAL1X&theme=nightowl&show_icons=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexed-AAL1X&theme=nightowl&hide_border=false" alt="hexed-AAL1X streak" />
 </td>
 <td width="50%" align="center">
