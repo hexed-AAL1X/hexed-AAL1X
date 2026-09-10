@@ -134,23 +134,54 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">El Molino</h3>
-      <div align="center">
-        <a href="https://github.com/hexed-AAL1X/El-Molino" target="_blank">
-          <img src="https://github.com/hexed-AAL1X/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
-        </a>
-        <p>
-          <a href="https://github.com/hexed-AAL1X/El-Molino" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
-          </a>
-        </p>
-        <p><strong>EL MOLINO</strong> is a game developed in C++ that combines strategy and decision-making, featuring surprisingly high-quality graphics for a console application.</p>
-      </div>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+<h3 align="center">A.L.I.C.E.</h3>
+<p align="center">
+<a href="https://github.com/hexed-AAL1X/A.L.I.C.E." target="_blank">
+<img src="https://raw.githubusercontent.com/hexed-AAL1X/A.L.I.C.E./main/docs/alice-logo-hero.png" width="320" alt="A.L.I.C.E.">
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/hexed-AAL1X/A.L.I.C.E." target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p align="center"><strong>A.L.I.C.E.</strong> — asistente de IA (Next.js + Python) para conversación natural, tools y una experiencia de producto cinematográfica.</p>
+</td>
+<td width="50%" valign="top" align="center">
+<h3 align="center">SPADE</h3>
+<p align="center">
+<a href="https://github.com/hexed-AAL1X/SPADE-NaturalSelectionSimulator" target="_blank">
+<img src="https://raw.githubusercontent.com/hexed-AAL1X/SPADE-NaturalSelectionSimulator/main/docs/blob-logo-sq.png" width="320" height="320" alt="SPADE">
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/hexed-AAL1X/SPADE-NaturalSelectionSimulator" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p align="center"><strong>SPADE</strong> — simulación multi-agente de selección natural con comportamientos emergentes y visualización 3D en tiempo real (Three.js).</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<br>
+<h3 align="center">El Molino</h3>
+<p align="center">
+<a href="https://github.com/hexed-AAL1X/El-Molino" target="_blank">
+<img src="https://raw.githubusercontent.com/hexed-AAL1X/El-Molino/master/assets/images/logo.png" width="320" height="320" alt="El Molino">
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/hexed-AAL1X/El-Molino" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+</a>
+</p>
+<p align="center"><strong>EL MOLINO</strong> is a game developed in C++ that combines strategy and decision-making, featuring surprisingly high-quality graphics for a console application.</p>
+</td>
+</tr>
 </table>
 <br>
 
