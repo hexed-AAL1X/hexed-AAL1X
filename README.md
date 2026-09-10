@@ -147,6 +147,9 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
         <a href="https://github.com/hexed-AAL1X/A.L.I.C.E." target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
         </a>
+        <a href="https://alice-tan-sigma.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE-000000?style=for-the-badge&logo=vercel&logoColor=white">
+        </a>
       </p>
       <p align="center"><strong>A.L.I.C.E.</strong> — asistente de IA (Next.js + Python) para conversación natural, tools y experiencia cinematográfica.</p>
     </td>
@@ -160,6 +163,9 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
       <p align="center">
         <a href="https://github.com/hexed-AAL1X/SPADE-NaturalSelectionSimulator" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="https://spade-naturalselectionsimulator.onrender.com/static/index.html" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE-46E3B7?style=for-the-badge&logo=render&logoColor=white">
         </a>
       </p>
       <p align="center"><strong>SPADE</strong> — simulación multi-agente de selección natural con visualización 3D en tiempo real (Three.js).</p>
@@ -176,6 +182,9 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
       <p align="center">
         <a href="https://github.com/hexed-AAL1X/El-Molino" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="https://github.com/hexed-AAL1X/El-Molino/releases/latest/download/ElMolino-v1.0.0-windows-x64.zip" target="_blank">
+          <img src="https://img.shields.io/badge/DOWNLOAD-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
         </a>
       </p>
       <p align="center"><strong>El Molino</strong> — juego en C++ de estrategia y decisión, con gráficos de alta calidad para consola.</p>
