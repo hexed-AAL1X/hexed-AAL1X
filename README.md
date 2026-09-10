@@ -193,6 +193,55 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
 </table>
 <br>
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">NYC-Taxi</h3>
+      <p align="center">
+        <a href="https://github.com/hexed-AAL1X/NYC-Taxi" target="_blank">
+          <img src="https://raw.githubusercontent.com/hexed-AAL1X/NYC-Taxi/main/docs/console-preview.png" width="100%" alt="NYC-Taxi dashboard">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/hexed-AAL1X/NYC-Taxi" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="http://35.224.74.75/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+        </a>
+      </p>
+      <h3 align="center">FruitGuard</h3>
+      <p align="center">
+        <a href="https://github.com/hexed-AAL1X/FruitGuard" target="_blank">
+          <img src="https://raw.githubusercontent.com/hexed-AAL1X/FruitGuard/main/assets/images/dashboard.png" width="100%" alt="FruitGuard dashboard">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/hexed-AAL1X/FruitGuard" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="https://fruitguard.onrender.com/app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE-46E3B7?style=for-the-badge&logo=render&logoColor=white">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">Hollow</h3>
+      <p align="center">
+        <a href="https://github.com/hexed-AAL1X/Hollow" target="_blank">
+          <img src="https://raw.githubusercontent.com/hexed-AAL1X/Hollow/main/docs/dashboard-preview.png" width="100%" alt="Hollow dashboard">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/hexed-AAL1X/Hollow" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br>
+
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
