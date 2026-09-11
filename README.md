@@ -19,7 +19,6 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
   - *Natural Language Processing (NLP)*
   - *Constraint Programming + Machine Learning*
 - 🚀 I'm eager to work on new projects.
-  - *Creating an a Assistant AI: A.L.I.C.E.*
 - ✔ Feel free to ask me anything! I'm motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
 - 📫 Reach out to me at: <a href="aal1x.core@gmail.com">aal1x.core@gmail.com</a>
